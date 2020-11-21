@@ -6,6 +6,4 @@ ProtoSell is a patent auction marketplace for high quality patented designs. We 
 
 **Here are some snapshots of the websites**
 
-![GitHub Logo](/website_imgs/home.png)
-
-
+![home](/website_imgs/home.png)
